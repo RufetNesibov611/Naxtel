@@ -24,7 +24,7 @@
 .navbar-up-right ul{
     display: flex;
     list-style: none;
-    padding-left: 600px;
+    padding-left: 500px;
     color: white;
 
 }
@@ -79,3 +79,125 @@ margin-top: 35px;
     display: flex;
     margin-top: 20px;
  }
+ .slide-two{
+    width: 100%;
+ }
+ .slide-two img{
+    width: 100%;
+    margin-top: 20px;
+ }
+.offer-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.icon-card{
+    margin-top: 70px;
+}
+.icon-card img{
+    height: 130px;
+    width: 130px;
+    margin-left: 100px;
+    
+}
+.icon-card h3{
+    color: gray;
+    margin-top: 10px;
+    margin-left: 110px;
+
+}
+.icon-card button{
+    border-color: orange;
+    color: orange;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 125px;
+   
+}
+.news{
+    height: 280px;
+    width: 100%;
+    background-color: rgb(244, 240, 240);
+}
+.news .news-text{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.news .news-text h3{
+    margin-top: 30px;
+    color: rgb(109, 110, 110);
+}
+#end{
+    height: 280px;
+    background-color: rgb(133, 133, 255);
+}
+#end .one h3{
+    margin-top: 65px;
+    color: white;
+}
+#end .one ul{
+list-style: none;
+}
+#end .one ul li{
+    
+}
+#end .one ul li a{
+    text-decoration: none;
+    color: white;
+}
+#end .two h3{
+    margin-top: 65px;
+    color: white;
+}
+#end .two ul{
+list-style: none;
+}
+#end .two ul li{
+    
+}
+#end .two ul li a{
+    text-decoration: none;
+    color: white;
+}
+#end .three h3{
+    margin-top: 65px;
+    color: white;
+}
+#end .three ul{
+list-style: none;
+}
+#end .three ul li{
+    
+}
+#end .three ul li a{
+    text-decoration: none;
+    color: white;
+}
+#end .four h3{
+    margin-top: 65px;
+    color: white;
+}
+#end .four ul{
+list-style: none;
+}
+#end .four ul li{
+    
+}
+#end .four ul li a{
+    text-decoration: none;
+    color: white;
+}
+#finish{
+    height: 90px;
+    background-color: rgb(80, 80, 152);
+    padding-left: 120px;
+    padding-top: 15px;
+}
+.finish-icon{
+    margin-left: 10px;
+  
+}
